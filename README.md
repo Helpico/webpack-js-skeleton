@@ -1,8 +1,8 @@
 ## Webpack-JavaScript-boilerplate
 
--- Multiple projects are possible to develop
--- Web-dev-server and hot reloading
--- Both development and production assembling
+- Multiple projects are possible to develop
+- Web-dev-server and hot reloading
+- Both development and production assembling
 
 
 ## How to set up
