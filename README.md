@@ -1,4 +1,4 @@
-## Webpack-JavaScript-boilerplate
+## My Webpack-JavaScript-boilerplate
 
 - Multiple projects are possible to develop
 - Web-dev-server and hot reloading
